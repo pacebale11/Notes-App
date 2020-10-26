@@ -1,3 +1,4 @@
+console.log("test")
 const fs = require('fs')
 const chalk = require('chalk')
 
